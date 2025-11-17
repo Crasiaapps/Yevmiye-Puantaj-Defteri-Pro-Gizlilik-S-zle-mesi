@@ -1,0 +1,124 @@
+📱 Yevmiye - Gizlilik Politikası
+Son Güncelleme: 17 Kasım 2025
+Bu gizlilik politikası, Crasia Apps tarafından geliştirilen Yevmiye - Çalışma Takibi uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklamaktadır.
+
+⚠️ Önemli: Yevmiye uygulaması, kullanıcı gizliliğine büyük önem verir. Tüm verileriniz cihazınızda yerel olarak saklanır ve sunucularımıza gönderilmez.
+1. Toplanan Bilgiler
+1.1. Kullanıcı Tarafından Girilen Veriler
+Uygulama, kullanıcının gönüllü olarak girdiği aşağıdaki bilgileri toplar:
+
+İşveren/İş Yeri Bilgileri: Çalıştığınız işyerlerinin adları
+Çalışma Kayıtları: Tarih, gün sayısı, saat sayısı, tutar bilgileri
+Notlar: Kişisel notlarınız
+Mesai Bilgileri: Günlük mesai saatleri
+1.2. Otomatik Olarak Toplanan Veriler
+Cihaz Bilgileri: Uygulama performansı için cihaz türü ve işletim sistemi versiyonu
+Kullanım İstatistikleri: Uygulama kullanım sıklığı (anonim)
+Kilitlenme Raporları: Uygulamayı iyileştirmek için hata raporları (anonim)
+1.3. Reklam Kimlikleri
+Uygulama, Google AdMob aracılığıyla ücretsiz kullanım için reklam gösterir. AdMob, ilgi alanlarınıza uygun reklamlar göstermek için anonim reklam kimliği (Advertising ID) kullanabilir.
+
+2. Verilerin Kullanımı
+Toplanan veriler aşağıdaki amaçlarla kullanılır:
+
+✅ Uygulama İşlevselliği: Çalışma kayıtlarınızı saklamak ve görüntülemek
+✅ PDF Raporları: Aylık raporlarınızı oluşturmak
+✅ Bildirimler: Günlük hatırlatma bildirimleri göndermek
+✅ Uygulama İyileştirme: Hata düzeltmeleri ve yeni özellikler için anonim kullanım istatistikleri
+✅ Reklamlar: Ücretsiz kullanım için ilgili reklamlar göstermek
+🔒 Garanti: Kişisel verileriniz (işveren isimleri, tutarlar, notlar) asla üçüncü şahıslarla paylaşılmaz ve sunucularımıza gönderilmez.
+3. Veri Saklama
+3.1. Yerel Depolama
+Tüm çalışma kayıtları, notlar ve ayarlar cihazınızda yerel olarak saklanır. Bu veriler Room Database kullanılarak şifrelenmeden saklanır ancak cihaz düzeyinde Android'in güvenlik mekanizmaları tarafından korunur.
+
+3.2. Yedekleme
+Uygulama, Android'in otomatik yedekleme özelliğini kullanabilir. Bu durumda verileriniz Google Drive'ınıza yedeklenebilir (Google hesabınızın gizlilik ayarlarına tabidir).
+
+3.3. Veri Saklama Süresi
+Çalışma kayıtları: Kullanıcı silene kadar
+Notlar: Kullanıcı silene kadar
+Ayarlar: Uygulama silinene kadar
+4. Üçüncü Taraf Hizmetler
+4.1. Google AdMob
+Uygulama, reklam göstermek için Google AdMob kullanır. AdMob, kendi gizlilik politikasına tabidir:
+
+📄 Google Gizlilik Politikası
+📄 AdMob Reklam Politikası
+AdMob aşağıdaki bilgileri toplayabilir:
+
+Reklam Kimliği (Advertising ID)
+IP Adresi
+Cihaz bilgileri
+Reklam etkileşimleri
+4.2. Reklam Kişiselleştirmeyi Kapatma
+Kişiselleştirilmiş reklamları devre dışı bırakmak için:
+
+Android: Ayarlar → Google → Reklamlar → Reklam kişiselleştirmeyi devre dışı bırak
+Veya: Google Reklam Ayarları
+5. İzinler
+Uygulama aşağıdaki izinleri kullanır:
+
+5.1. Zorunlu İzinler
+Depolama: PDF raporlarını indirmek için (Android 10 ve altı)
+Bildirimler: Günlük hatırlatma bildirimleri göndermek için
+5.2. Opsiyonel İzinler
+Tam Ekran Bildirimleri: Bildirim göstermek için (Android 12+)
+Cihaz Yeniden Başlatma: Hatırlatmaları cihaz yeniden başladıktan sonra da korumak için
+ℹ️ Bilgi: Uygulama, konum, kamera, mikrofon veya kişiler gibi hassas izinler talep etmez.
+6. Veri Güvenliği
+Verilerinizin güvenliğini sağlamak için aşağıdaki önlemleri alıyoruz:
+
+🔒 Yerel Depolama: Tüm veriler cihazınızda tutulur, sunucuya gönderilmez
+🔒 Android Güvenliği: Android'in sandbox mekanizması ile korunur
+🔒 HTTPS: Reklam ve analitik servisleri şifreli bağlantı kullanır
+🔒 Şifresiz Depolama: Veriler açık metin olarak saklanır ancak diğer uygulamalar erişemez
+7. Kullanıcı Hakları
+Kullanıcı olarak şu haklara sahipsiniz:
+
+✅ Erişim: Tüm verilerinize uygulama içinden erişebilirsiniz
+✅ Düzenleme: Kayıtlarınızı istediğiniz zaman düzenleyebilirsiniz
+✅ Silme: İstediğiniz kaydı veya tüm verileri silebilirsiniz
+✅ Dışa Aktarma: PDF olarak raporlarınızı indirebilirsiniz
+✅ Uygulama Silme: Uygulamayı silerseniz tüm veriler kalıcı olarak silinir
+8. Çocukların Gizliliği
+Yevmiye uygulaması 13 yaş ve üzeri kullanıcılar için tasarlanmıştır. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyoruz. Eğer 13 yaşından küçük bir çocuğun bilgi verdiğini fark ederseniz, lütfen bizimle iletişime geçin.
+
+9. Değişiklikler
+Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Önemli değişiklikler olduğunda uygulama içinde bildirim gösterilecektir. Politika güncellendiğinde "Son Güncelleme" tarihi değiştirilecektir.
+
+Güncelleme sonrası uygulamayı kullanmaya devam etmeniz, yeni gizlilik politikasını kabul ettiğiniz anlamına gelir.
+
+10. Veri Silme
+Tüm Verileri Nasıl Silersiniz?
+Manuel Silme: Uygulama içinde her kaydı tek tek silebilirsiniz
+Uygulama Verilerini Temizleme:
+Android Ayarlar → Uygulamalar → Yevmiye
+Depolama → Verileri Temizle
+Uygulamayı Kaldırma: Uygulamayı silerseniz tüm veriler kalıcı olarak silinir
+11. KVKK Uyumu (Türkiye)
+Uygulamamız, 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) hükümlerine uygun olarak tasarlanmıştır. Kişisel verileriniz:
+
+✅ Hukuka ve dürüstlük kuralına uygun işlenir
+✅ Doğru ve gerektiğinde güncel tutulur
+✅ Belirli, açık ve meşru amaçlar için işlenir
+✅ İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olur
+✅ İlgili mevzuatta öngörülen süre kadar saklanır
+12. GDPR Uyumu (Avrupa Birliği)
+Avrupa Birliği'nden kullanıcılarımız için GDPR (Genel Veri Koruma Yönetmeliği) haklarınız şunlardır:
+
+Verilerinize erişim hakkı
+Verilerin düzeltilmesi hakkı
+Verilerin silinmesi hakkı ("unutulma hakkı")
+İşlemenin kısıtlanması hakkı
+Veri taşınabilirliği hakkı
+İtiraz etme hakkı
+📧 İletişim
+Gizlilik politikası hakkında sorularınız veya talepleriniz için bizimle iletişime geçebilirsiniz:
+
+Geliştirici: Crasia Apps
+E-posta: crasiaapps@gmail.com
+Web: Google Play Profil
+Yanıt Süresi: Talebinize 30 gün içinde yanıt vereceğiz.
+
+© 2025 Crasia Apps. Tüm hakları saklıdır.
+Bu gizlilik politikası son olarak 17 Kasım 2025 tarihinde güncellenmiştir.
